@@ -67,11 +67,12 @@ a {
 
 button {
   font-size: 18px;
+  font-weight: bold;
   color: #E5E7EB;
   background-color: #3882F6;
-  border-radius: 5px;
+  border-radius: 10px;
   border: none;
-  padding: 5px 20px;
+  padding: 10px 30px;
 }
 
 .title {
@@ -122,12 +123,13 @@ button {
 .action {
   background-color: #3882F6;
   color: #E5E7EB;
-  margin: 80px 200px;
+  margin: 80px 30vh;
   padding: 50px 100px;
-  border-radius: 5px;
+  border-radius: 10px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-size: 18px;
 }
 
 .action .call {
